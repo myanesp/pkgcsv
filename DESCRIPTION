@@ -1,0 +1,12 @@
+Package: pkgcsv
+Title: Export and Import R Packages from CSV Files
+Version: 0.1.0
+Authors@R: 
+    person("Mario", "Yanes")
+Description: Easily migrate installed packages from existing installations to fresh new ones.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends:
+    dplyr

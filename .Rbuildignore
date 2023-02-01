@@ -1,0 +1,7 @@
+^pkgcsv\.Rproj$
+^\.Rproj\.user$
+^examples
+^README.md
+^.Rhistory
+^.RData
+^\.github$
