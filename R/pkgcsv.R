@@ -5,8 +5,6 @@
 #' @param file The path of the CSV file.
 #' @keywords CSV packages backup import export
 #' @import dplyr
-#' @examples 
-#' installpkg.csv('exported-packages.csv')
 #' @export
 
 
@@ -25,8 +23,6 @@ installpkg.csv <- function(file) {
 #' of your installation. You can import it later to another one using \code{installpkg.csv()}.
 #' @param file The path of the CSV file.
 #' @keywords CSV packages backup import export
-#' @examples
-#' exportpkg.csv('exported-packages.csv')
 #' @export
 
 exportpkg.csv <- function(file) {
