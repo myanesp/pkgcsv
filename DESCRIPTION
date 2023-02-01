@@ -1,8 +1,11 @@
 Package: pkgcsv
 Title: Export and Import R Packages from CSV Files
 Version: 0.1.0
-Authors@R: 
-    person("Mario", "Yanes")
+Authors@R:
+    person(given = "Mario",
+       family = "Yanes",
+       role = c("aut", "cre"),
+       email = "myanes@uc3m.es",)
 Description: Easily migrate installed packages from existing installations to fresh new ones.
 License: `use_gpl3_license()`
 Encoding: UTF-8
