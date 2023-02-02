@@ -13,9 +13,6 @@ installpkg.csv(file)
 This function reads the CSV file, checks which packages are currently installed
 and installs the missing packages from the file.
 }
-\examples{
-installpkg.csv('exported-packages.csv')
-}
 \keyword{CSV}
 \keyword{backup}
 \keyword{export}

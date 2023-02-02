@@ -13,9 +13,6 @@ exportpkg.csv(file)
 This function exports to a CSV file all the currently installed packages
 of your installation. You can import it later to another one using \code{installpkg.csv()}.
 }
-\examples{
-exportpkg.csv('exported-packages.csv')
-}
 \keyword{CSV}
 \keyword{backup}
 \keyword{export}
