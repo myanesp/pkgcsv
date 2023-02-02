@@ -1,4 +1,4 @@
-# `pkgcsv`: an R Package to easily export, transfer or migrate your installed R packages
+# `pkgcsv`: a R Package to easily export, transfer or migrate your installed R packages
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/myanesp/pkgcsv/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/myanesp/pkgcsv/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
